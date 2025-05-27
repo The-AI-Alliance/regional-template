@@ -7,7 +7,7 @@ has_children: false
 
 # About Template for Regional Websites and The AI Alliance
 
-**Template for Regional Websites** is a project of the [Trust and Safety](https://thealliance.ai){:target="wg"} work group in [The AI Alliance](https://thealliance.ai){:target="ai-alliance"}. 
+**Template for Regional Websites** is a project of the [The AI Alliance](https://thealliance.ai){:target="_blank"}. 
 
 Please join us! See our [contributing]({{site.baseurl}}/contributing) page for details.
 
