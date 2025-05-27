@@ -1,10 +1,10 @@
-# README for MICROSITE_TITLE
+# README for Template for Regional Websites
 
-[Published Documentation](https://the-ai-alliance.github.io/REPO_NAME/)
+[Published Documentation](https://the-ai-alliance.github.io/regional-template/)
 
-This repo contains the code and documentation for the AI Alliance: MICROSITE_TITLE.
+This repo contains the code and documentation for the AI Alliance: Template for Regional Websites.
 
-See the [repo README](https://the-ai-alliance.github.io/REPO_NAME/) for additional details about this project.
+See the [repo README](https://the-ai-alliance.github.io/regional-template/) for additional details about this project.
 
 TODO - Describe this project
 
