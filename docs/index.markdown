@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Home | AI Alliance for REGION_NAME
 nav_order: 10
 has_children: false
 ---
